@@ -1,6 +1,6 @@
 import urllib.request
 import urllib.error
-url = 'https://jio-tv.sm-monirul-islam-rs.workers.dev/'
+url = 'https://jio-tv.sm-monirul-islam-rs.workers.dev/live'
 # We MUST use a specific User-Agent like OTT Navigator, TiviMate, or okhttp to get the playlist
 headers = {
     'User-Agent': 'OTT Navigator'
