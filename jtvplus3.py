@@ -1,6 +1,6 @@
 import urllib.request
 import urllib.error
-url = 'https://hotstarplugx.cstds.workers.dev/jio/'
+url = 'https://premiumplugx.me/hotstar/'
 # We MUST use a specific User-Agent like OTT Navigator, TiviMate, or okhttp to get the playlist
 headers = {
     'User-Agent': 'OTT Navigator'
